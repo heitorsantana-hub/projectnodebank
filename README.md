@@ -83,18 +83,5 @@ This project was fundamental for practicing core backend concepts:
 
 This project is under the MIT License. Feel free to use and study it!
 
-```
-
----
-
-### Por que o seu ficou diferente?
-Provavelmente você copiou o resultado visual da nossa conversa. Para o GitHub entender, ele precisa desses símbolos como `#`, `**` e `---`. 
-
-
-
-### Dica para o seu Perfil
-Como você é **Criador de Conteúdo** e aluno do **SENAI CIMATEC**, que tal adicionarmos uma pequena seção "About the Author" no final? Isso ajuda muito no networking.
-
-**Quer que eu prepare um texto curto em inglês contando que você é um estudante de Salvador focado em Backend para você colocar lá?**
 
 ```
