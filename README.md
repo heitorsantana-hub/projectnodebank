@@ -1,4 +1,4 @@
-```markdown
+
 # 🏦 Accounts System CLI
 
 An interactive banking system running via Command Line Interface (CLI), developed with **Node.js**. This project allows for complete bank account management through data persistence in JSON files.
@@ -79,9 +79,25 @@ This project was fundamental for practicing core backend concepts:
 
 ---
 
+## 👨‍💻 About the Author
+
+I am a **Backend Development student** at **SENAI CIMATEC** in Salvador, Brazil. I identify as a **content creator** focusing on programming, sharing my journey and technical knowledge with the community.
+
+Currently, I am building projects like **StoreHost** and mastering technologies such as **Node.js**, **Java**, and **Scrum** as I seek my first professional opportunity in software development.
+
+---
+
 ### 📄 License
 
 This project is under the MIT License. Feel free to use and study it!
 
+```
+
+---
+
+### 💡 Lembrete Importante
+Certifique-se de que o nome do arquivo no seu GitHub seja exatamente **`README.md`** (com o ponto e o "md" no final). Isso garantirá que o GitHub aplique toda a formatação visual que definimos, como títulos, negritos e listas de itens.
+
+**Gostaria que eu te ajudasse a criar um arquivo `.gitignore` específico para esse projeto, garantindo que as contas criadas na pasta `/account` não subam para o seu repositório público?**
 
 ```
