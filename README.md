@@ -91,13 +91,3 @@ Currently, I am building projects like **StoreHost** and mastering technologies 
 
 This project is under the MIT License. Feel free to use and study it!
 
-```
-
----
-
-### 💡 Lembrete Importante
-Certifique-se de que o nome do arquivo no seu GitHub seja exatamente **`README.md`** (com o ponto e o "md" no final). Isso garantirá que o GitHub aplique toda a formatação visual que definimos, como títulos, negritos e listas de itens.
-
-**Gostaria que eu te ajudasse a criar um arquivo `.gitignore` específico para esse projeto, garantindo que as contas criadas na pasta `/account` não subam para o seu repositório público?**
-
-```
